@@ -24,8 +24,8 @@
     "@hapi/inert": "^5.2.0",
     "@hapi/vision": "^5.5.2",
     "blipp": "^4.0.0",
-    "hapi-swagger": "^9.4.2",
-    "jsonwebtoken": "^8.5.1",
+    "hapi-swagger": "^14.5.4",
+    "jsonwebtoken": "^9.0.2",
     "require-directory": "^2.1.1",
     "sequelize": "^5.8.5"
   },
